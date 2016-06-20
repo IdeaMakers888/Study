@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">ChatWorld</string>
+    <integer name="com_vk_sdk_AppId">5513801</integer>
+    <string name="app_name">Chat World</string>
+    <string name="sans_serif_thin">sans-serif-thin</string>
 </resources>
